@@ -1,0 +1,10 @@
+﻿  Pract13Sys.cpp
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(102,46): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(122,53): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(157,42): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(190,50): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(199,80): warning C4244: -=: преобразование "double" в "long", возможна потеря данных
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(231,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(247,148): warning C4804: <<: небезопасное использование типа "bool" в операции
+C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\Pract13Sys.cpp(271,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pract13Sys.vcxproj -> C:\Users\anton\OneDrive\Desktop\Pract13Sys-main\pract13sys\Pract13Sys\x64\Debug\Pract13Sys.exe
