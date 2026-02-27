@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Glass/Glass.vcxproj" Id="b2d50669-3185-4b01-a7fa-8c51509e964b" />
+  <Project Path="Naperstki.vcxproj" Id="494dbe3a-1c7b-4f64-aa3f-000717e42608" />
+</Solution>
